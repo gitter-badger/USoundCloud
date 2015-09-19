@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=USoundCloud
+Exec=USoundCloud
+Icon=USoundCloud/USoundCloud.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

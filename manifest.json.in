@@ -1,0 +1,17 @@
+{
+    "name": "usoundcloud.vostro162",
+    "description": "description of USoundCloud",
+    "architecture": "@CLICK_ARCH@",
+    "title": "USoundCloud",
+    "hooks": {
+        "USoundCloud": {
+            "apparmor": "USoundCloud/USoundCloud.apparmor",
+            "desktop":  "USoundCloud/USoundCloud.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "Marius Hartig <your@mail.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+
